@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\RPG\\JogoRpg\\JogoRpg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28557718-11CC-4885-9A77-6D0521BE8C54}|JogoRpg\\JogoRpg.csproj|c:\\users\\usuario\\desktop\\rpg\\jogorpg\\jogorpg\\jogorpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28557718-11CC-4885-9A77-6D0521BE8C54}|JogoRpg\\JogoRpg.csproj|solutionrelative:jogorpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28557718-11CC-4885-9A77-6D0521BE8C54}|JogoRpg\\JogoRpg.csproj|c:\\users\\usuario\\desktop\\rpg\\jogorpg\\jogorpg\\jogorpg\\guerreiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28557718-11CC-4885-9A77-6D0521BE8C54}|JogoRpg\\JogoRpg.csproj|solutionrelative:jogorpg\\guerreiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28557718-11CC-4885-9A77-6D0521BE8C54}|JogoRpg\\JogoRpg.csproj|c:\\users\\usuario\\desktop\\rpg\\jogorpg\\jogorpg\\jogorpg\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28557718-11CC-4885-9A77-6D0521BE8C54}|JogoRpg\\JogoRpg.csproj|solutionrelative:jogorpg\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Guerreiro.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\RPG\\JogoRpg\\JogoRpg\\JogoRpg\\Guerreiro.cs",
+              "RelativeDocumentMoniker": "JogoRpg\\Guerreiro.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\RPG\\JogoRpg\\JogoRpg\\JogoRpg\\Guerreiro.cs",
+              "RelativeToolTip": "JogoRpg\\Guerreiro.cs",
+              "ViewState": "AgIAAA4AAABAZmZmZmYgwBAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T14:57:00.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Personagem.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\RPG\\JogoRpg\\JogoRpg\\JogoRpg\\Personagem.cs",
+              "RelativeDocumentMoniker": "JogoRpg\\Personagem.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\RPG\\JogoRpg\\JogoRpg\\JogoRpg\\Personagem.cs",
+              "RelativeToolTip": "JogoRpg\\Personagem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T20:50:49.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\RPG\\JogoRpg\\JogoRpg\\JogoRpg\\Program.cs",
+              "RelativeDocumentMoniker": "JogoRpg\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\RPG\\JogoRpg\\JogoRpg\\JogoRpg\\Program.cs",
+              "RelativeToolTip": "JogoRpg\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T14:20:50.616Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
